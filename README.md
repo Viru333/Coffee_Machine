@@ -40,20 +40,20 @@ This is a simple coffee machine simulation written in Python. The program allows
 
 ## Example Interaction
 
-Welcome to the Python Coffee Machine
-What would you like? (espresso/latte/cappuccino): latte
-Please insert coins.
-How many 1 rupee coins?: 0
-How many 2 rupee coins?: 0
-How many 5 rupee coins?: 10
-How many 10 rupee coins?: 0
-How many 20 rupee coins?: 0
-Here is 0 rupees in change.
-Here is your latte. Enjoy!
+Welcome to the Python Coffee Machine  
+What would you like? (espresso/latte/cappuccino): latte  
+Please insert coins.  
+How many 1 rupee coins?: 0  
+How many 2 rupee coins?: 0  
+How many 5 rupee coins?: 10  
+How many 10 rupee coins?: 0  
+How many 20 rupee coins?: 0  
+Here is 0 rupees in change.  
+Here is your latte. Enjoy!  
 
-What would you like? (espresso/latte/cappuccino): report
-water: 9800
-milk: 4850
-coffee: 476
-Money: 50
+What would you like? (espresso/latte/cappuccino): report  
+water: 9800  
+milk: 4850  
+coffee: 476  
+Money: 50  
 
